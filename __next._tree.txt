@@ -1,2 +1,2 @@
 :HL["/china-ipo-radar-web/_next/static/chunks/18bgn41nc0qb8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Q_j2YVu4G3002OLMH9oMP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"H0zr8kxw8abMbi8kh75-3"}
